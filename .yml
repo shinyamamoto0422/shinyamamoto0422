@@ -1,2 +1,7 @@
 - name: Metrics embed
   uses: lowlighter/metrics@v3.23
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
