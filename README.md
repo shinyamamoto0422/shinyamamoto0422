@@ -18,3 +18,14 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyamamoto0422&layout=compact&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
+
+name: GitHub Skyline
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.skyline.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_skyline: yes
+  plugin_skyline_year: 2020
+  plugin_skyline_frames: 6
+  plugin_skyline_quality: 1
