@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 )](https://github.com/anuraghazra/github-readme-stats)
 
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyamamoto0422&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyamamoto0422&langs_count=8&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyamamoto0422&langs_count=8&layout=compact&theme=tokyonight)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shinyamamoto0422/output/github-contribution-grid-snake.svg)
