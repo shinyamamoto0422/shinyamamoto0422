@@ -95,6 +95,3 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=shinyamamoto0422&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyamamoto0422&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyamamoto0422&layout=compact&theme=onedark
-)](https://github.com/anuraghazra/github-readme-stats)
