@@ -1,4 +1,4 @@
-# 山本 新 (Yamamoto Shin)
+# Shin Yamamoto
 
 ## Web Developer & 大学生
 
