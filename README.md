@@ -1,14 +1,9 @@
-<!-- https://www.profileme.dev/ -->
+# 山本 新 (Yamamoto Shin)
 
-Hi <img width="100px" src="https://user-images.githubusercontent.com/83487508/181665953-0bf92189-7dfc-4d44-900e-40866ee25e60.jpeg"/> My name is Shin Yamamoto
-=============================
+## Web Developer & 大学生
 
-Web Developer
-------------------------
-
-* 🌍  I'm based in Japan Osaka
-* 🖥️  See my portfolio at [shinyamamoto](http://shin-yamamoto.vercel.app)
-* 🧠  I'm learning GraphQL
+* 🏫 同志社大学 在学中（2026年卒業予定）
+* 🌍 日本・大阪在住
 
 <div>
   <a href="https://www.twitter.com/shinyamamoto0422" target="_blank" rel="noreferrer">
@@ -19,21 +14,15 @@ Web Developer
   </a>
 </div>
 
-<a href="https://github.com/shinyamamoto0422" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyamamoto0422&count_private=true&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+### 技術スキル
 
-### Skills
-
-- #### Frontend
-
+#### フロントエンド
 <p align="left">
-   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-   </a>
-   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
   </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
@@ -52,46 +41,31 @@ Web Developer
   </a>
 </p>
 
-- #### Backend
-
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-</a>
-  <a href="https://graphql.com/" target="_blank" rel="noreferrer">
+#### バックエンド
+<p align="left">
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
   </a>
+</p>
+
+### GitHub統計
+
+<a href="http://www.github.com/shinyamamoto0422">
+  <img src="https://github-readme-stats.vercel.app/api?username=shinyamamoto0422&show_icons=true&hide=stars,contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="GitHubの統計" />
 </a>
 
-### Badges
+<a href="http://www.github.com/shinyamamoto0422">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinyamamoto0422&count_private=true&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
-<b>My GitHub Stats</b>
+### 学歴
 
-  <a href="http://www.github.com/shinyamamoto0422">
-    <img src="https://github-readme-stats.vercel.app/api?username=shinyamamoto0422&show_icons=true&hide=stars,contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="shinyamamoto's GitHub stats" />
-  </a>
-  
-  <a href="http://www.github.com/shinyamamoto0422">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinyamamoto0422&count_private=true&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-  
-  <a href="http://www.github.com/shinyamamoto0422">
-    <img src="https://activity-graph.herokuapp.com/graph?username=shinyamamoto0422&count_private=true&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-  </a>
-  
-<!--
-**shinyamamoto0422/shinyamamoto0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 同志社大学 在学中
+* 2026年卒業予定
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=shinyamamoto0422&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyamamoto0422&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### 連絡先
+* GitHub: [@shinyamamoto0422](https://github.com/shinyamamoto0422)
+* Twitter: [@shinyamamoto0422](https://twitter.com/shinyamamoto0422)
