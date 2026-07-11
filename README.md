@@ -2,7 +2,7 @@
 
 ## Web Developer & 大学生
 
-* 🏫 同志社大学 在学中（2026年卒業予定）
+* 🏫 CoPalette Inc Founder
 * 🌍 日本・大阪在住
 
 <div>
@@ -63,8 +63,7 @@
 
 ### 学歴
 
-* 同志社大学 在学中
-* 2026年卒業予定
+* 同志社大学 2026年卒業
 
 ### 連絡先
 * GitHub: [@shinyamamoto0422](https://github.com/shinyamamoto0422)
