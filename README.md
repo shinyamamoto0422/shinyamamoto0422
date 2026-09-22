@@ -66,12 +66,16 @@ currently: Claude Code / Codex CLI を相棒に、少人数で複数プロダク
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/shinyamamoto0422">
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shinyamamoto0422&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/shinyamamoto0422">
-    <img height="165" src="https://streak-stats.demolab.com/?user=shinyamamoto0422&hide_border=true&background=0f172a&stroke=334155&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
-  </a>
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=shinyamamoto0422&hide_border=true&background=1a1b27&stroke=334155&ring=70a5fd&fire=70a5fd&currStreakNum=ffffff&currStreakLabel=70a5fd&sideNums=ffffff&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
 </p>
 
 ### 🧭 Journey
