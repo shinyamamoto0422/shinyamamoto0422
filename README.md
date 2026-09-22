@@ -20,7 +20,7 @@ name:      Shin Yamamoto
 role:      Founder @ CoPalette Inc.
 previous:  PLAID (@plaidev)
 education: 同志社大学 (2026 卒)
-base:      Kansai, Japan 🇯🇵
+base:      Tokyo, Japan 🇯🇵
 focus:     [Hackathon Platform, AI Coding Agents, Company Context for AI, Urban Data]
 currently: Claude Code / Codex CLI を相棒に、少人数で複数プロダクトを回しています
 ```
