@@ -1,70 +1,93 @@
-# Shin Yamamoto
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3382ed&height=180&section=header&text=Shin%20Yamamoto&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Founder%20%40%20CoPalette%20%E2%80%94%20Every%20Person%2C%20A%20Creator.&descAlignY=60&descSize=18" width="100%" alt="Shin Yamamoto" />
 
-## Web Developer & 大学生
+<p align="center">
+  <a href="https://www.copalette.org/"><img src="https://img.shields.io/badge/CoPalette-Founder-3382ed?style=for-the-badge&labelColor=0f172a" alt="CoPalette" /></a>
+  <a href="https://x.com/Shin_Yamamoto21"><img src="https://img.shields.io/badge/X-@Shin__Yamamoto21-3382ed?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a" alt="X" /></a>
+  <a href="https://github.com/copalette"><img src="https://img.shields.io/badge/GitHub-@copalette-3382ed?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="copalette" /></a>
+</p>
 
-* 🏫 CoPalette Inc Founder
-* 🌍 日本・大阪在住
+<p align="center">
+  <b>Every Person, A Creator.</b><br />
+  ハッカソンプラットフォームから AI エージェントの開発基盤まで、「つくる人」を支えるプロダクトを作っています。
+</p>
 
-<div>
-  <a href="https://www.twitter.com/shinyamamoto0422" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/cocococo_panda?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-  </a>
-  <a href="https://www.github.com/shinyamamoto0422" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/shinyamamoto0422?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-</div>
+---
 
-### 技術スキル
+### 👋 About
 
-#### フロントエンド
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+```yaml
+name:      Shin Yamamoto
+role:      Founder @ CoPalette Inc.
+previous:  PLAID (@plaidev)
+education: 同志社大学 (2026 卒)
+base:      Kansai, Japan 🇯🇵
+focus:     [Hackathon Platform, AI Coding Agents, Company Context for AI, Urban Data]
+currently: Claude Code / Codex CLI を相棒に、少人数で複数プロダクトを回しています
+```
+
+### 🚀 What I'm Building
+
+| Product | |
+| :-- | :-- |
+| 🏟️ **[CraftStadium](https://craftstadium.com)** | ハッカソンプラットフォーム。参加者向けの **CraftStadium** と主催者向けの **[CraftStadium Organize](https://organize.craftstadium.com)** で、開催から参加・審査まで一気通貫で支えます。Web / iOS / Android / MCP まで一つのモノレポで開発。 |
+| 🔭 **[CraftStadium Lens](https://github.com/copalette/craftstadium-lens)** `OSS` | AI コーディングエージェント向けの local-first CLI（`cslens`）。Claude Code のセッションから「自分が何度も言っている指示」を見つけて、`CLAUDE.md` のルールや hooks の候補にします。Anthropic の auto-memory を補完するツールです。 |
+| 🧠 **[TobariAI](https://tobari.ai)** | 会議・メール・文書から会社の判断・ルール・仕事のやり方をため、どれが今も正しいかを保ったまま、社員が使う AI に渡すサービス。 |
+| 🏙️ **[Tobari](https://tobari.io)** | 「個人は見ない。まちの動きを見る。」匿名の通行量データで、自治体の意思決定を支える都市データ基盤。 |
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,go,python,swift,kotlin&theme=dark" alt="Languages" />
+</p>
+
+**Frontend / Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,graphql&theme=dark" alt="Frontend" />
+</p>
+
+**Backend / Infra**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,docker,aws,terraform,vercel,githubactions&theme=dark" alt="Backend / Infra" />
+</p>
+
+**AI**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Anthropic%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API" />
+  <img src="https://img.shields.io/badge/MCP-0f172a?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Codex%20CLI-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="Codex CLI" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/shinyamamoto0422">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shinyamamoto0422&theme=tokyonight" alt="GitHub Stats" />
   </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+  <a href="https://github.com/shinyamamoto0422">
+    <img height="165" src="https://streak-stats.demolab.com/?user=shinyamamoto0422&hide_border=true&background=0f172a&stroke=334155&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
   </a>
 </p>
 
-#### バックエンド
-<p align="left">
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
-  </a>
+### 🧭 Journey
+
+- **Now** — CoPalette Inc. Founder。CraftStadium / TobariAI / Tobari を開発
+- **2026** — 同志社大学 卒業
+- **Before** — PLAID (@plaidev)
+
+### 📫 Connect
+
+<p>
+  <a href="https://x.com/Shin_Yamamoto21"><img src="https://img.shields.io/badge/X-Shin__Yamamoto21-0f172a?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.copalette.org/"><img src="https://img.shields.io/badge/Web-copalette.org-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://craftstadium.com"><img src="https://img.shields.io/badge/Hackathon-CraftStadium-0f172a?style=flat-square" alt="CraftStadium" /></a>
 </p>
 
-### GitHub統計
+ハッカソンの共催・スポンサー、CraftStadium Lens へのフィードバック、プロダクトの壁打ち、気軽にどうぞ。
 
-<a href="http://www.github.com/shinyamamoto0422">
-  <img src="https://github-readme-stats.vercel.app/api?username=shinyamamoto0422&show_icons=true&hide=stars,contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="GitHubの統計" />
-</a>
-
-<a href="http://www.github.com/shinyamamoto0422">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinyamamoto0422&count_private=true&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-### 学歴
-
-* 同志社大学 2026年卒業
-
-### 連絡先
-* GitHub: [@shinyamamoto0422](https://github.com/shinyamamoto0422)
-* Twitter: [@shinyamamoto0422](https://twitter.com/shinyamamoto0422)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382ed,100:0f172a&height=100&section=footer" width="100%" alt="" />
